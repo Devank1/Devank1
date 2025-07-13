@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/de_vankk" target="blank"><img src="https://img.shields.io/twitter/follow/de_vankk?logo=twitter&style=for-the-badge" alt="de_vankk" /></a> </p>
 
-- 🔭 I’m currently working on **A gps based bus tracking application**
+- 🔭 I’m currently working on **A SmartBoard – Employee Onboarding Automation Platform**
 
 - 🌱 I’m currently learning **NestJs,Jest**
 
