@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 💬 Ask me about **Core Java,Js,ReactJs**
+- 💬 Ask me about **Core Js, Ts, ReactJs**
 
 - 📫 How to reach me **gdevank22@gmail.com**
 
