@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devank Gupta</h1>
-<h3 align="center">I am a Frontend Developer. I know Java,JavaScript,TypeScript, ReactJS, Redux, NodeJS, Express and MongoDB.</h3>
+<h3 align="center">I am a Frontend Developer. I know JavaScript,TypeScript, ReactJS, Redux, NodeJS, Express and MongoDB.</h3>
 
 <p align="left"> <a href="https://twitter.com/de_vankk" target="blank"><img src="https://img.shields.io/twitter/follow/de_vankk?logo=twitter&style=for-the-badge" alt="de_vankk" /></a> </p>
 
